@@ -2,7 +2,7 @@ require "rainbow/ext/string"
 
 class Convert
   def initialize(file)
-    @file = "data.csv"
+    @file = ARGV[1] || "input.txt"
   end
 
   def get_unit(line)
