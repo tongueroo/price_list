@@ -19,6 +19,24 @@ If you're interested, the script's source code is here: [convert.rb](convert.rb)
 
 ## Script Usage Details
 
+Downloading the [convert.rb](convert.rb) script onto your computer. Let's say you downloaded it to the folder
+
+    ~/Downloads/price_list
+
+You need to open up a "Terminal", change into that ~/Downloads directory and run the script.  The
+Terminal app is under "Application/Utiltiles/Terminal".
+
+Then you need to run this command to "change" into that ~/Downloads/price_list folder.
+
+    cd ~/Downloads/price_list
+
+You can run `ls` to "list" the files within the folder. You should have these files (remember you're creating input.txt):
+
+    ❯ ls ~/Downloads/price_list
+    convert.rb  input.txt
+
+Another useful command is `pwd`, which stands for the present working directory.
+
 To run the script and see the output
 
     ruby convert.rb
