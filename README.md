@@ -6,9 +6,9 @@ Your computer needs Ruby installed. Macbooks have it installed by default, so it
 
 ## How It Works
 
-The script reads a `input.txt` file line by line to extract the pricing data. It then prints out the data line by line into a CSV format.
+The script reads an `input.txt` file line by line to extract the pricing data. It then prints out the data line by line into a CSV format.
 
-If you're interested, the source code of the script is here: [convert.rb](convert.rb).
+If you're interested, the script's source code is here: [convert.rb](convert.rb)
 
 ## Usage
 
