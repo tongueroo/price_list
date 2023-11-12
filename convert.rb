@@ -1,4 +1,4 @@
-require "rainbow/ext/string"
+# require "rainbow/ext/string"
 
 class Convert
   def initialize(file)
