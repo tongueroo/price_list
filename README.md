@@ -19,7 +19,7 @@ If you're interested, the script's source code is here: [convert.rb](convert.rb)
 
 ## Script Usage Details
 
-Download the [convert.rb](convert.rb) script onto your computer. Let's say you downloaded it to the folder
+Downloading the [convert.rb](convert.rb) script onto your computer. Let's say you've downloaded it to the folder
 
     ~/Downloads/price_list
 
@@ -45,4 +45,4 @@ To run the script and save the output
 
     ruby convert.rb > output.csv
 
-The output is saved to the `output.csv` with the second way of running the script.
+The second way of running the script with the `>` writes the output to `output.csv`.
