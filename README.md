@@ -19,7 +19,7 @@ If you're interested, the script's source code is here: [convert.rb](convert.rb)
 
 ## Script Usage Details
 
-Downloading the [convert.rb](convert.rb) script onto your computer. Let's say you downloaded it to the folder
+Download the [convert.rb](convert.rb) script onto your computer. Let's say you downloaded it to the folder
 
     ~/Downloads/price_list
 
